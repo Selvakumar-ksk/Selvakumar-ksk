@@ -6,7 +6,7 @@ A passionate **Full Stack Developer** and a 3rd-year **Information Technology** 
 - ✍️ Writing clean, testable, and scalable code
 - 🌱 Currently exploring **Spring Boot** and **REST API development** to level up my backend skills  
 - 💬 Open for **collaborations**, **internships**, and freelance opportunities  
-- 📍 Based in **Gorakhpur, India**  
+- 📍 Based in **Chennai, India**  
 - 📬 Reach me at: [selvakumarkuppusamysk@gmail.com](mailto:selvakumarkuppusamysk@gmail.com)  
 - 💻 Explore my work on [GitHub](https://github.com/Selvakumar-ksk)
 
