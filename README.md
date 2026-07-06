@@ -1,10 +1,10 @@
 <h1 align="center">Hi There 👋, I'm Selvakumar K!</h1>
 
-A passionate **Full Stack Developer** and a 3rd-year **Information Technology** student who loves a Full Stack Developer with hands-on experience in building responsive web applications using modern frontend and backend technologies. I specialize in developing scalable RESTful APIs, secure authentication systems, and database-driven applications. My skill set includes Java, Spring Boot, JavaScript, React, Node.js, MySQL, and MongoDB, along with Git, Docker, and cloud deployment. I am passionate about creating efficient, user-focused solutions and continuously upgrading my technical expertise to meet industry standards.
+A passionate **Full Stack Developer** and a Final-year **Information Technology** student who loves a Full Stack Developer with hands-on experience in building responsive web applications using modern frontend and backend technologies. I specialize in developing scalable RESTful APIs, secure authentication systems, and database-driven applications. My skill set includes Java, Spring Boot, JavaScript, React, Node.js, MySQL, and MongoDB, along with Git, Docker, and cloud deployment. I am passionate about creating efficient, user-focused solutions and continuously upgrading my technical expertise to meet industry standards.
 
-- 🛠️ Building **TaskTracker** - a production-ready Spring Boot backend for task tracking and automated reminders
+- 🛠️ Building Panel — a production-ready MERN-stack backend and React frontend for AI-powered mock interviews with real-time voice interaction and automated scoring.
 - ✍️ Writing clean, testable, and scalable code
-- 🌱 Currently exploring **Spring Boot** and **REST API development** to level up my backend skills  
+- ☕ Currently mastering Java while building a strong foundation in Object-Oriented Programming (OOP).  
 - 💬 Open for **collaborations**, **internships**, and freelance opportunities  
 - 📍 Based in **Chennai, India**  
 - 📬 Reach me at: [selvakumarkuppusamysk@gmail.com](mailto:selvakumarkuppusamysk@gmail.com)  
